@@ -10,8 +10,12 @@ Outside of networking, I build responsive landing pages and front-end websites, 
 
 ## 🚀 Featured Projects
 
-* 💻 **[Sheila Muchina - Portfolio/Landing Page](https://sheila-muchina.vercel.app/)** *A responsive, visually appealing front-end website showcasing custom layout design and web development capabilities.*
+💻 Sheila Muchina – Model Portfolio
 
+A responsive model portfolio for a Nairobi-based fashion model, featuring editorial, runway, beauty, activewear, and campaign work with booking and inquiry integrations for agencies and brands across Africa.
+🌐 TGL – Tylers Geotechnologies Ltd
+
+A professional website for a licensed land surveying and geospatial firm based in Nyeri, Kenya. Features service pages covering cadastral surveys, land subdivision, topographical mapping, GIS, title support and equipment hire — with SEO optimization, a structured survey guide, and WhatsApp contact integration.
 ---
 
 ## 🛠️ Core Skills
