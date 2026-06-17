@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Lorna Wangari Njogu
+# 👋 Hi there, I'm Njogu Lorna Wangari
 
 ### 🌐 Fiber Optics & Wireless Network Technician | ISP Network Operations | Front-End Support | Virtual Assistant
 
